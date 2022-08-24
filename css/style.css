@@ -1,0 +1,46 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+
+.container{
+	overflow: hidden;
+}
+
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color: blue;
+
+}
+
+.content{
+	float: right;
+	width: 60%;
+	height: 200px;
+	background-color: yellow;
+}
+
+.box{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+}
+
+.red{
+	background-color: green;
+}
+
+.blue{
+	background-color: pink;
+}
+
+.green{
+	background-color: aqua;
+}
+
+.footer{
+	height:100px;
+	background-color: black;
+}
